@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Jemima-IV/Jemima-IV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, I'm JEMIMA 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a passionate **Data Science & Analytics** enthusiast with a strong foundation in data analysis, statistical modeling, machine learning, and data visualization. I have completed Certified specialist in **Data Science & Analytics course** and currently gaining hands-on experience through an internship program where I apply my skills to real-world challenges.
+
+## What I Do
+
+- **Data Cleaning & Preprocessing**
+- **Exploratory Data Analysis (EDA)**
+- **Machine Learning Algorithms**
+- **Data Visualization & Reporting**
+- **Data-Driven Decision Making**
+
+## Tools & Technologies
+
+- **Languages**: Python, SQL
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools**: Jupyter Notebook, Tableau
+- **Databases**: MySQL Workbench
+
+## Current Projects
+
+- **[Customer Churn Prediction in telecommunication]**: [Brief description of your project]
+- **[Online recipe sharing Website]**: [Brief description of your project]
+
+## Connect With Me
+
+- Email:[E-Mail](https://jemijemima2001@gmail.com)
+- LinkedIn: [Linkdin](https://www.linkedin.com/in/jemima-iv/)
+
+Feel free to explore my repositories and reach out for any collaborations or queries. Let’s connect and drive insights through data!
+
+---
+
