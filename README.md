@@ -18,7 +18,7 @@ I am a passionate **Data Science & Analytics** enthusiast with a strong foundati
 
 - **Languages**: Python, SQL
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Tools**: Jupyter Notebook, Tableau
+- **Tools**: Jupyter Notebook, Tableau,VScode
 - **Databases**: MySQL Workbench
 
 ## Current Projects
