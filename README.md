@@ -23,7 +23,7 @@ I am a passionate **Data Science & Analytics** enthusiast with a strong foundati
 
 ## Current Projects
 
-- **[Customer Churn Prediction in telecommunication]**: [Brief description of your project]
+- **Customer Churn Prediction in telecommunication**:[Developed a machine learning model to predict customer churn for a telecom company.]
 - **[Online recipe sharing Website]**: [Brief description of your project]
 
 ## Connect With Me
