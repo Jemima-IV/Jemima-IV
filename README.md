@@ -24,8 +24,15 @@ I am a passionate **Data Science & Analytics** enthusiast with a strong foundati
 ## Current Projects
 
 - **Customer Churn Prediction in telecommunication**:
-  Developed a machine learning model to predict customer churn for a telecom company.
-- **[Online recipe sharing Website]**: [Brief description of your project]
+  This project uses machine learning to predict customer churn in the telecom industry.
+  By analyzing customer behavior, service usage, and account details, the model identifies users likely to leave.
+  The insights help businesses take proactive measures to improve retention.
+- **[Online recipe sharing Website]**:
+  TheOnlineRecipeSharingWebsiteisaplatformwhereuserscan
+  share, discover, and explore avarietyofrecipes. Thewebsiteallows
+  users tocreateanaccount,submittheirfavoriterecipes,and
+  categorize thembasedoningredients,instruction. Inaddition,users
+  canleavecommentsorfeedback
 
 ## Connect With Me
 
