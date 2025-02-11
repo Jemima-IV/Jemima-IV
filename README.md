@@ -27,7 +27,7 @@ I am a passionate **Data Science & Analytics** enthusiast with a strong foundati
   This project uses machine learning to predict customer churn in the telecom industry.
   By analyzing customer behavior, service usage, and account details, the model identifies users likely to leave.
   The insights help businesses take proactive measures to improve retention.
-- **[Online recipe sharing Website]**:
+- **Online recipe sharing Website**:
   TheOnlineRecipeSharingWebsiteisaplatformwhereuserscan
   share, discover, and explore avarietyofrecipes. Thewebsiteallows
   users tocreateanaccount,submittheirfavoriterecipes,and
